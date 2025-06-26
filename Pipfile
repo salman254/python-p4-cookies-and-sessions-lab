@@ -11,8 +11,8 @@ importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 sqlalchemy-serializer = "1.4.1"
 faker = "15.3.2"
-flask-migrate = "4.0.0"
 pytest = "7.2.0"
+flask-migrate = "*"
 
 [dev-packages]
 
